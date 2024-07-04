@@ -1,0 +1,17 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -9,6 +9,14 @@
+     <h1>TEST</h1>
+     <h2>Do your best!</h2>
+     <p>Love what you are doing.</p>
++    <ul>
++        <li>33</li>
++        <li>44</li>
++        <li>55</li>
++    </ul>
++    <div id="facebook">
++        <img src="./Icons/facebook.svg" alt="">
++    </div>
+ 
+ </body>
+ </html>
+\ No newline at end of file
