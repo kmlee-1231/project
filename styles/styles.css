@@ -1,1 +1,7 @@
 /*# sourceMappingURL=styles.css.map */
+h1{
+    color: lightgreen;
+}
+p{
+    border: 3px solid lightslategrey;
+}
